@@ -30,6 +30,8 @@ public class PerfectNumber {
 			return STATE.ABUNDANT;
 		else
 			return STATE.DEFICIENT;
+		
+		
 
 	}
 
